@@ -5,9 +5,6 @@ Windows
 py -m pip install --upgrade pip
 ```
 
-Linux/MAC OS
-```
-python3 -m pip install --upgrade pip
 ```
 
 ## Create a project with the following structure
